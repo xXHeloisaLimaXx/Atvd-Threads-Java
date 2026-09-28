@@ -19,8 +19,8 @@ class Racer extends Thread {
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
+public class Qt1forma1 {
+    public static void Qt1forma1(String[] args) {
         Racer racer1 = new Racer(1);
         racer1.start(); 
     }
