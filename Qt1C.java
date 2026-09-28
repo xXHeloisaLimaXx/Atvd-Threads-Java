@@ -12,8 +12,8 @@ class Racer extends Thread {
     }
 }
 
-public class QtC {
-    public static void QtC(String[] args) {
+public class Qt1C {
+    public static void Qt1C(String[] args) {
         for (int i = 1; i <= 10; i++) {
             Racer racer = new Racer(i);
             racer.start();
